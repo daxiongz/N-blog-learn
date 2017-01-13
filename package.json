@@ -1,0 +1,18 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "my first blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "daxiong",
+  "license": "ISC"
+}
